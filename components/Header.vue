@@ -29,4 +29,14 @@
     align-items: center;
     width: 80%;
   }
+  .nav_items a{
+    text-decoration: none;
+    color: black;
+  }
+  .nav_items a:hover,
+  .nav_items a:active
+  {
+    text-decoration: none;
+    color: rgb(95, 150, 13);
+  }
 </style>
